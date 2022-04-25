@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [17.5.0](https://github.com/yargs/yargs/compare/v17.4.1...v17.5.0) (2022-04-25)
+
+
+### Features
+
+* add browser.d.ts and check for existence of Error.captureStackTrace() ([#2144](https://github.com/yargs/yargs/issues/2144)) ([6192990](https://github.com/yargs/yargs/commit/6192990509cf793c4b10b88884d626893dee89df))
+
+
+### Bug Fixes
+
+* **completion:** support for default flags ([db35423](https://github.com/yargs/yargs/commit/db354232705623bbcd8fad362f6a4d6d59650be5))
+
 ### [17.4.1](https://github.com/yargs/yargs/compare/v17.4.0...v17.4.1) (2022-04-09)
 
 
